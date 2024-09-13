@@ -1,8 +1,10 @@
 import "./App.css";
+import Chat from "./components/Chat";
+
 function App() {
   return (
     <>
-      <h1>Hello this is a chat application called samvad</h1>
+      <Chat />
     </>
   );
 }
