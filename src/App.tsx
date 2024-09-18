@@ -1,10 +1,10 @@
 import "./App.css";
-import Chat from "./components/Chat";
+import Main from "@/Pages/Main";
 
 function App() {
   return (
     <>
-      <Chat />
+      <Main />
     </>
   );
 }
